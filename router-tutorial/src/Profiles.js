@@ -2,7 +2,7 @@ import React from 'react';
 import {
   Link,
   Route,
-} from 'C:/Users/kuuha/AppData/Roaming/npm/node_modules/react-router-dom';
+} from 'react-router-dom';
 import Profile from './Profile';
 
 const Profiles = () => {
