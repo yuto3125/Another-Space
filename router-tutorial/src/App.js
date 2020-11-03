@@ -3,7 +3,7 @@ import {
   Route,
   Link,
   Switch,
-} from 'C:/Users/kuuha/AppData/Roaming/npm/node_modules/react-router-dom';
+} from 'react-router-dom';
 import Home from './Home';
 import About from './About';
 import Profiles from './Profiles';
