@@ -1,5 +1,5 @@
 import React from 'react';
-import { withRouter } from 'C:/Users/kuuha/AppData/Roaming/npm/node_modules/react-router-dom';
+import { withRouter } from 'react-router-dom';
 import WithRouterSample from './WithRouterSample';
 
 const data = {
