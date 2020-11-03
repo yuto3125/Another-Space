@@ -1,5 +1,5 @@
 import React from 'react';
-import qs from 'C:/Users/kuuha/AppData/Roaming/npm/node_modules/qs';
+import qs from 'qs';
 
 const About = ({ location }) => {
   const query = qs.parse(window.location.search, {
